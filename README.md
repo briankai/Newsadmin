@@ -1,27 +1,13 @@
-# Laravel PHP Framework
+# 一个基于laravel和laravel-admin的具有新闻发布、删除、修改功能的demo
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+本demo是以laravel为php框架进行开发的，贡献者可以将本demo拉取到本地进行开发，并修改主目录下的.env.example文件，修改相应的数据库名，用户名和密码,并将文件名重命名为.env。后台是以laravel-admin为后台框架开发的。 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+## laravel官方文档
 
-## Official Documentation
+本demo是基于laravel5.2开发的，[Laravel 5.2文档](http://laravelacademy.org/laravel-docs-5_2).
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+## laravel-admin官方文档
 
-## Contributing
+本demo后台是基于laravel-admin为后台框架开发的，[laravel-admin 文档](https://github.com/z-song/laravel-admin/blob/master/docs/zh/README.md)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
